@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 52.916667 52.916666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="favicon.png"
+   inkscape:export-xdpi="3.2512"
+   inkscape:export-ydpi="3.2512"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <rect
+       x="20.700333"
+       y="42.245171"
+       width="151.37642"
+       height="128.97724"
+       id="rect1070" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="17.196076 : 24.691019 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="70.112742 : 24.691019 : 1"
+       inkscape:persp3d-origin="43.654408 : 15.871575 : 1"
+       id="perspective446" />
+    <rect
+       x="-287.34235"
+       y="371.5022"
+       width="145.17812"
+       height="168.2533"
+       id="rect1076" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="131.25"
+     inkscape:cy="105.75"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1342"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     width="250mm"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#fb923c;fill-opacity:1;stroke-width:4.09616;stroke-dasharray:none"
+       id="rect1182"
+       width="52.753132"
+       height="52.916668"
+       x="0.16353464"
+       y="0" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.5004114,0,0,0.5004114,-10.130989,-20.015421)"
+       id="text1068"
+       style="font-style:normal;font-weight:normal;font-size:96px;line-height:1.25;font-family:sans-serif;letter-spacing:-15.5417px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1070);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="20.701172"
+         y="127.18359"
+         id="tspan3589"><tspan
+           style="font-family:Hack;-inkscape-font-specification:Hack"
+           id="tspan3587">JR</tspan></tspan></text>
+  </g>
+</svg>
