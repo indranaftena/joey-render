@@ -84,7 +84,7 @@ async function loadObject(path) {
   console.log(model);
   // objectsGroup.add(model);
 }
-loadObject('/house.glb');
+// loadObject('/house.glb');
 
 // add group to scene
 scene.add(objectsGroup);

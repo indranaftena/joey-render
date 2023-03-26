@@ -162,7 +162,7 @@ h3 {
 }
 
 #software {
-  background: url(3d_logo.png) 0 0;
+  background: url(/3d_logo.png) 0 0;
   animation: software-logo 6s ease-in-out 0s infinite normal;
 }
 
@@ -197,7 +197,7 @@ h3 {
 }
 
 #hardware {
-  background: url(hardware_logo.png) 0 0;
+  background: url(/hardware_logo.png) 0 0;
   animation: hardware-logo 4s ease-in-out 0s infinite normal;
 }
 
@@ -224,7 +224,7 @@ h3 {
 }
 
 #communicate {
-  background: url(comm_logo.png) 0 0;
+  background: url(/comm_logo.png) 0 0;
   animation: comm-logo 12s ease-in-out 0s infinite normal;
 }
 
